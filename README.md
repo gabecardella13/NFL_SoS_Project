@@ -15,7 +15,7 @@ Below, we describe the *Adj_SoS* statistic in more detail...
 ## Adjusted_SoS
 
 The main result from this project was each team's *Adj_SoS* metric, which quantifies a team's SoS based on the following variables. Note that *Adj_SoS* was calculated, for each team, by standardizing (z-score) each of these variables, applying a weight to them when necessary, and then taking each team's averages of these standardizations. An *Adj_SoS* below 0 corresponds to an easier schedule, and an *Adj_SoS* above 0 corresponds to a harder schedule. We see from the *Adj_SoS_plot.png* file (given below), that the Falcons, by far, have the easiest schedule next year according to *Adj_SoS*.
-![Adj_SoS_plot.png].
+![/Adj_SoS_plot.png].
 
 ### Variables Used to Calculate Adjusted_SoS
 
