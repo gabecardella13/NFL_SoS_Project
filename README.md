@@ -42,7 +42,7 @@ The main result from this project was each team's *Adj_SoS* metric, which quanti
 
 *NFL_SoS_code.ipynb*: Code file where the *Adj_SoS* metric is created, and the data for it is collected and preprocessed. This file gives descriptions of the methods used and why they were used.
 
-*Rest_Travel_Edges_plot.png*: Output (from the .ipynb file) scatterplot of each team's rest edge by their travel edge. These variables, and the others that make up *Adj_SoS* are described in the above [Adjusted_SoS](adjusted_sos) section.
+*Rest_Travel_Edges_plot.png*: Output (from the .ipynb file) scatterplot of each team's rest edge by their travel edge. These variables, and the others that make up *Adj_SoS* are described in the above [Adjusted_SoS](Adjusted_SoS) section.
 
 *locations.csv*: Information on each team's stadium location. This was used as an input in the .ipynb code file.
 
